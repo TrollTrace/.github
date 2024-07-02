@@ -2,6 +2,8 @@
 
 ![designer__3__720](https://github.com/TrollTrace/TrollTrace/assets/158124623/04e2fb83-68e1-40d2-9570-c94f9bfa6e39)
 
+## Our Mission
+Born out of a desire to aggressively defend business owner's right to do business without criminal interference, Troll Trace's mission is to actively protect our partner's digital infrastructure and sensitive information from all cyber threats. By engaging in continuous monitoring, thorough vulnerability assessments, and implementing advanced security measures, we strive to maintain the integrity, confidentiality, and availability of our data assets. Additionally, we are committed to promoting a culture of cybersecurity awareness and resilience.
 
 Table of Contents
 =================
