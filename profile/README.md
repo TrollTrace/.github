@@ -8,6 +8,7 @@ Table of Contents
 <!--ts-->
   * [Project Overview]()
   * [Team Members]()
+  * [Project Challenges]()
   * [Team Agreemeent]()
   * [System Selection]()
   * [Employee Handbook]()
@@ -19,6 +20,7 @@ Table of Contents
 <!--te-->
 
 ## Project Overview
+Troll Trace, a top-notch cybersecurity firm, has been hired to perform a threat emulation exercise for SimCorp, a prominent financial services provider. During this task, Troll Trace’s blue team will take on an active threat hunting role.  The team will monitor and record adversarial activities inside of SimCorp's Virtual Private Cloud (VPC).  This VPC will be treated as though it were a honeypot, and blue team will observe without interfering in the adversaries' movement through the network. Blue team's objective is to rapidly uncover and rectify any gaps in detection capabilities to ensure all threats are detected.  The blue team must enhance detection systems quickly while preserving the integrity of the engagement. Strategic teamwork is crucial in protecting SimCorp's systems from cyber threats.
 
 ## Team Members
 Meet the team behind TrollTrace:
@@ -27,6 +29,13 @@ Meet the team behind TrollTrace:
 * Gilbert Collado [Github](https://github.com/JapanesePlatano) ! [LinkedIn](https://www.linkedin.com/in/gilbert-collado-545099254)
   
 ![giphy](https://github.com/TrollTrace/TrollTrace/assets/158124623/012623e4-3807-4c94-bf51-e9018205f19f)
+
+## Project Challenges
+* Observe adversarial actions and collect evidence on movement and actions.
+* Configure IDS rules for greater detection capabilities.
+* Deploy additional threat detection tools where needed.
+* Where appropriate, design and implement scripted automation for alerting.
+* Generate a threat model and perform a STRIDE analysis.
 
 ## Team Agreement
 You can view our Team Agreement [here](). This agreement outlines communication, collaboration, decision-making processes, and conflict-resolution guidelines within the team.
