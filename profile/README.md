@@ -49,13 +49,13 @@ We selected the technology stack for Interslice based on the following criteria:
 - **Ease of Use**: Selected user-friendly tools to facilitate development and maintenance processes.
 - **Community Support**: Preferred technologies with active developer communities for ongoing support and updates.
 
-** IAM - Management of AWS resources access & permissions
-** VPC - Amazon Virtual Private Cloud within which EC2 instances operate.
-** VPC Flow Logs - Monitors IP traffic in and out of the VPC.
-** CloudWatch - Within AWS, takes in VPC Flow Logs and organizes events.
-** EC2 - Virtual machines within the VPC, acting as operating endpoints.
-** Python - Automated tools used by Troll Trace are developed in python.
-** Splunk - Platform for searching mass log data.
+* IAM - Management of AWS resources access & permissions
+* VPC - Amazon Virtual Private Cloud within which EC2 instances operate.
+* VPC Flow Logs - Monitors IP traffic in and out of the VPC.
+* CloudWatch - Within AWS, takes in VPC Flow Logs and organizes events.
+* EC2 - Virtual machines within the VPC, acting as operating endpoints.
+* Python - Automated tools used by Troll Trace are developed in python.
+* Splunk - Platform for searching mass log data.
 
 
 View the full System Selection [here]()
