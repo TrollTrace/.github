@@ -57,7 +57,7 @@ We selected the technology stack for Interslice based on the following criteria:
 * Splunk - Platform for searching mass log data.
 
 
-View the full System Selection [here]()
+View the full System Selection [here](https://github.com/TrollTrace/TrollTrace/blob/main/Documents/Systems%20Selection.pdf)
 
 ## Standard Operating Procedure
 We follow a set of Standard Operating Procedures (SOPs) to maintain consistency and efficiency within the project:
