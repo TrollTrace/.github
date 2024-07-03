@@ -39,7 +39,7 @@ Meet the team behind TrollTrace:
 * Generate a threat model and perform a STRIDE analysis.
 
 ## Team Agreement
-You can view our Team Agreement [here](/Documents/BLUETeamAgreement.pdf). This agreement outlines communication, collaboration, decision-making processes, and conflict-resolution guidelines within the team.
+You can view our Team Agreement [here](TrollTrace/TrollTrace/Documents/BLUETeamAgreement.pdf). This agreement outlines communication, collaboration, decision-making processes, and conflict-resolution guidelines within the team.
 
 ## Systems and Components Selection
 We selected the technology stack for Interslice based on the following criteria:
