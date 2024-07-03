@@ -70,7 +70,7 @@ We follow a set of Standard Operating Procedures (SOPs) to maintain consistency 
 Here are some visual representations of TrollTrace's architecture and topology:
 
 ## Project Management Tool
-We use [Github Projects]() to track our progress and tasks. In Trello, we organize tasks into boards, lists, and cards, representing different stages of development. Each card contains task description, assignee, due date, and checklist items.
+We use [Github Projects](https://github.com/orgs/TrollTrace/projects/4) to track our progress and tasks. In Trello, we organize tasks into boards, lists, and cards, representing different stages of development. Each card contains task description, assignee, due date, and checklist items.
 
 ## Scripts
 We have a collection of scripts used in the project for various purposes:
