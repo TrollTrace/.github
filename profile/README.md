@@ -13,7 +13,6 @@ Table of Contents
   * [Project Challenges]()
   * [Team Agreemeent]()
   * [System Selection]()
-  * [Employee Handbook]()
   * [Standard Operating Procedure]()
   * [Topologies/Visuals]()
   * [Project Management Tool]()
