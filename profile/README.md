@@ -42,12 +42,21 @@ Meet the team behind TrollTrace:
 ## Team Agreement
 You can view our Team Agreement [here](). This agreement outlines communication, collaboration, decision-making processes, and conflict-resolution guidelines within the team.
 
-## System Selection
+## Systems and Components Selection
 We selected the technology stack for Interslice based on the following criteria:
 - **Scalability**: Choose scalable frameworks and tools to accommodate future growth and user demands.
 - **Performance**: Prioritized technologies are known for their efficiency and speed to ensure optimal system performance.
 - **Ease of Use**: Selected user-friendly tools to facilitate development and maintenance processes.
 - **Community Support**: Preferred technologies with active developer communities for ongoing support and updates.
+
+** IAM - Management of AWS resources access & permissions
+** VPC - Amazon Virtual Private Cloud within which EC2 instances operate.
+** VPC Flow Logs - Monitors IP traffic in and out of the VPC.
+** CloudWatch - Within AWS, takes in VPC Flow Logs and organizes events.
+** EC2 - Virtual machines within the VPC, acting as operating endpoints.
+** Python - Automated tools used by Troll Trace are developed in python.
+** Splunk - Platform for searching mass log data.
+
 
 View the full System Selection [here]()
 
