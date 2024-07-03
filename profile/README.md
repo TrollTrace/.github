@@ -77,4 +77,4 @@ We have a collection of scripts used in the project for various purposes:
 
 ## Presentation Link
 View our live project presentation [here]() for an overview of TrollTrace's features and functionalities.<br>
-Take a view of our project presentation slideshow [here]()
+Take a view of our project presentation slideshow [here](https://docs.google.com/presentation/d/1IbE663TXz0m44mWh8pr4iv7RIKwPSGsE6LalXINAJnc/edit?usp=sharing)
