@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=TrollTrace&label=Profile%20Views&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
 # Troll Trace
 
 ![designer__3__720](https://github.com/TrollTrace/TrollTrace/assets/158124623/04e2fb83-68e1-40d2-9570-c94f9bfa6e39)
@@ -73,5 +74,3 @@ We use [Github Projects](https://github.com/orgs/TrollTrace/projects/4) to track
 ## Presentation Link
 View our live project presentation [here](https://zoom.us/rec/share/IqXSoEr6s8Z_CGJm9AKgRyS5NdZZZ1vl62I5Ilk53hCf0gIXGVgaJx4M3AxUOV2a.V5Rw0TFk7jA_1_Qb) for an overview of TrollTrace's features and functionalities.<br>
 Take a view of our project presentation slideshow [here](https://docs.google.com/presentation/d/1IbE663TXz0m44mWh8pr4iv7RIKwPSGsE6LalXINAJnc/edit?usp=sharing)
-
-[![](https://visitcount.itsvg.in/api?id=trolltrace&icon=0&color=0)](https://visitcount.itsvg.in)
