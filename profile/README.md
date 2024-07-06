@@ -21,7 +21,7 @@ Table of Contents
 <!--te-->
 
 ## Project Overview
-Troll Trace, a top-notch cybersecurity firm, has been hired to perform a threat emulation exercise for SimCorp, a prominent financial services provider. During this task, Troll Trace’s blue team will take on an active threat hunting role.  The team will monitor and record adversarial activities inside of SimCorp's Virtual Private Cloud (VPC).  This VPC will be treated as though it were a honeypot, and blue team will observe without interfering in the adversaries' movement through the network. Blue team's objective is to rapidly uncover and rectify any gaps in detection capabilities to ensure all threats are detected.  The blue team must enhance detection systems quickly while preserving the integrity of the engagement. Strategic teamwork is crucial in protecting SimCorp's systems from cyber threats.
+Troll Trace, a top-notch cybersecurity firm, has been hired to perform a threat emulation exercise for SimCorp, a prominent financial services provider. During this task, Troll Trace’s blue team will take on an active threat-hunting role.  The team will monitor and record adversarial activities inside of SimCorp's Virtual Private Cloud (VPC).  This VPC will be treated as though it were a honeypot, and the blue team will observe without interfering in the adversaries' movement through the network. Blue team's objective is to rapidly uncover and rectify any gaps in detection capabilities to ensure all threats are detected.  The blue team must enhance detection systems quickly while preserving the integrity of the engagement. Strategic teamwork is crucial in protecting SimCorp's systems from cyber threats.
 
 ## Team Members
 Meet the team behind TrollTrace:
@@ -53,28 +53,24 @@ We selected the technology stack for Interslice based on the following criteria:
 * VPC Flow Logs - Monitors IP traffic in and out of the VPC.
 * CloudWatch - Within AWS, takes in VPC Flow Logs and organizes events.
 * EC2 - Virtual machines within the VPC, acting as operating endpoints.
-* Python - Automated tools used by Troll Trace are developed in python.
+* Python - Automated tools used by Troll Trace are developed in Python.
 * Splunk - Platform for searching mass log data.
-
 
 View the full System Selection [here](https://github.com/TrollTrace/TrollTrace/blob/main/Documents/Systems%20Selection.pdf)
 
 ## Standard Operating Procedure
 We follow a set of Standard Operating Procedures (SOPs) to maintain consistency and efficiency within the project:
 
-[Adversarial Activity Observation](https://docs.google.com/document/d/1fcyVTEse8zI8tG0s9xonNSYkhK2FNgLJN_e08eb2aYg/edit#heading=h.vl16rmtqvuod)
-
-[Implementing Detective Controls on the Web Server](https://docs.google.com/document/d/1yX7RRFYjWol-4Uwdo4okRlYPs-4YLamZ1xPj3cMXs98/edit#heading=h.brpohc6znf3f)
+* [Adversarial Activity Observation](https://github.com/TrollTrace/TrollTrace/blob/main/Documents/Adversarial%20Activity%20Observation.pdf)
+* [Implementing Detective Controls on the Web Server](https://github.com/TrollTrace/TrollTrace/blob/main/Documents/Implementing%20Detective%20Controls%20on%20the%20Web%20Server.pdf)
+* [STRIDE Analysis](https://github.com/TrollTrace/TrollTrace/blob/447a7daae7027f65150c664f2595139a411f6774/Documents/STRIDE%20Analysis.pdf)
   
 ## Topologies/Cloud Architecture Design
 Here are some visual representations of TrollTrace's architecture and topology:
 
 ## Project Management Tool
-We use [Github Projects](https://github.com/orgs/TrollTrace/projects/4) to track our progress and tasks. In Trello, we organize tasks into boards, lists, and cards, representing different stages of development. Each card contains task description, assignee, due date, and checklist items.
-
-## Scripts
-We have a collection of scripts used in the project for various purposes:
+We use [Github Projects](https://github.com/orgs/TrollTrace/projects/4) to track our progress and tasks. In Trello, we organize tasks into boards, lists, and cards, representing different stages of development. Each card contains a task description, assignee, due date, and checklist items.
 
 ## Presentation Link
-View our live project presentation [here]() for an overview of TrollTrace's features and functionalities.<br>
+View our live project presentation [here](https://zoom.us/rec/share/IqXSoEr6s8Z_CGJm9AKgRyS5NdZZZ1vl62I5Ilk53hCf0gIXGVgaJx4M3AxUOV2a.V5Rw0TFk7jA_1_Qb) for an overview of TrollTrace's features and functionalities.<br>
 Take a view of our project presentation slideshow [here](https://docs.google.com/presentation/d/1IbE663TXz0m44mWh8pr4iv7RIKwPSGsE6LalXINAJnc/edit?usp=sharing)
