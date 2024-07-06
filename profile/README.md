@@ -8,16 +8,15 @@ Born out of a desire to aggressively defend business owners' right to do busines
 Table of Contents
 =================
 <!--ts-->
-  * [Project Overview]()
-  * [Team Members]()
-  * [Project Challenges]()
-  * [Team Agreemeent]()
-  * [System Selection]()
-  * [Standard Operating Procedure]()
-  * [Topologies/Visuals]()
-  * [Project Management Tool]()
-  * [Scripts]()
-  * [Presentation Link]()
+  * [Project Overview](#project-overview)
+  * [Team Members](#team-members)
+  * [Project Challenges](#project-challenges)
+  * [Team Agreemeent](#team-agreement)
+  * [System Selection](#systems-and-components-selection)
+  * [Standard Operating Procedure](#standard-operating-procedure)
+  * [Topologies/Visuals](#topologiesvisuals)
+  * [Project Management Tool](#project-management-tool)
+  * [Presentation Link](#presentation-link)
 <!--te-->
 
 ## Project Overview
